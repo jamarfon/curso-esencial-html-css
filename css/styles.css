@@ -1,0 +1,19 @@
+html {
+  font-size: 16px; /* esto es el valor por defecto en el user agent */
+}
+body, a {
+  color: #212121;
+}
+header {
+  /* font-size: 14px; */
+  font-size: .875em;
+}
+h1 {
+  font-size: 3.75em;
+}
+h2 {
+  font-size: 2em;
+}
+h3 {
+  font-size: 1.5em;
+}
